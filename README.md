@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huri Hidayat</h1>
 <h3 align="center">A passionate developer from a small villages kedaburapat</h3>
-<img align = "right" alt="rahasia" width ="260" src ="!(https://user-images.githubusercontent.com/114871106/221172183-b4748b70-1630-447a-9544-9e18dccfe4b7.png)">
+<img align = "right" alt="rahasia" width ="260" src ="https://user-images.githubusercontent.com/114871106/221172183-b4748b70-1630-447a-9544-9e18dccfe4b7.png">
 
 - 🔭 i'm working in **rahasia**
 
