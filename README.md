@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from a small villages kedaburapat</h3>
 <img align = "right" alt="rahasia" width ="300" src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iihglobal.com%2Fwp-content%2Fuploads%2F2019%2F02%2Fdcsad.gif&f=1&nofb=1&ipt=d97ae8417e0b2a9df662bde5670f63e006aba33a7c86a5cef6a5241da8cf5358&ipo=images">
 
-- i working in **rahasia**
+- 🔭 i'm working in **rahasia**
 
 - 🌱 I’m currently learning **java, javascript, reactjs, nodejs, laravel, mobile apps, pentest**
 
