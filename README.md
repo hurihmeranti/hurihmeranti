@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **rahasia**
 
-- 👨‍💻 All of my projects are available at [this here okay]
+- 👨‍💻 All of my projects are available at this here okay
 
-- 📝 I regularly write articles on [tempur.co.id]
+- 📝 I regularly write articles on tempur.co.id
 
 - 📫 How to reach me **hurihmeranti@gmail.com**
 
