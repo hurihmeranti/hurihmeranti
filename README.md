@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huri Hidayat</h1>
 <h3 align="center">A passionate frontend developer from small villages kedaburapat, Riau</h3>
-<img align = "right" alt="rahasia" width ="275" src ="https://user-images.githubusercontent.com/114871106/221172183-b4748b70-1630-447a-9544-9e18dccfe4b7.png">
+<img align = "right" alt="rahasia" width ="273" src ="https://user-images.githubusercontent.com/114871106/221172183-b4748b70-1630-447a-9544-9e18dccfe4b7.png">
 - 🔭 I’m currently working on **rahasia**
 
 - 🌱 I’m currently learning **front-end mobile and web, pentest**
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **rahasia**
 
-- 👨‍💻 All of my projects are available at [this here okay](this here okay)
+- 👨‍💻 All of my projects are available at [this here okay]
 
-- 📝 I regularly write articles on [tempur.co.id](tempur.co.id)
+- 📝 I regularly write articles on [tempur.co.id]
 
 - 📫 How to reach me **hurihmeranti@gmail.com**
 
