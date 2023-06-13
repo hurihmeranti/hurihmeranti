@@ -3,7 +3,7 @@
 <img align = "right" alt="rahasia" width ="273" src ="https://user-images.githubusercontent.com/114871106/221172183-b4748b70-1630-447a-9544-9e18dccfe4b7.png">
 - 🔭 I’m currently working on **rahasia**
 
-- 🌱 I’m currently learning **front-end mobile and web, pentest**
+- 🌱 I’m currently learning **front-end mobile and web, pentest, cyber security**
 
 - 👯 I’m looking to collaborate on **noted**
 
